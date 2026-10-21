@@ -1,4 +1,10 @@
-# ☕ Costa Cafe Sales Dashboard | Interactive Data Analytics Project
+## 📊 Dashboard Preview
+
+> **Main Dashboard View:**
+> ![Dashboard Preview](Screenshot%202026-10-21%20041826.png)
+
+> **Sales Breakdown & Metrics:**
+> ![Analytics View](Screenshot%202026-10-21%20043810.png)# ☕ Costa Cafe Sales Dashboard | Interactive Data Analytics Project
 
 > **"Transforming Data into Actionable Insights"**
 
